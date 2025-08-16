@@ -1,0 +1,16 @@
+{
+  "en": {
+    "UI_PLAY": "Play",
+    "UI_SCORE": "Score: {n}",
+    "UI_TIME": "Time",
+    "MSG_WIN": "All aboard! You kept everyone happy.",
+    "MSG_LOSE": "Flight missed—too many delays.",
+    "STALL_RAMEN": "Ramen",
+    "STALL_SUSHI": "Sushi",
+    "STALL_ONIGIRI": "Onigiri",
+    "ORDER_TEMPLATE": "I'd like {dish}, please!",
+    "TRAVELER_JP": "Traveler from Japan",
+    "TRAVELER_IT": "Traveler from Italy",
+    "TRAVELER_BR": "Traveler from Brazil"
+  }
+}
