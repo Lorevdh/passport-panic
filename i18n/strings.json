@@ -11,6 +11,9 @@
     "ORDER_TEMPLATE": "I'd like {dish}, please!",
     "TRAVELER_JP": "Traveler from Japan",
     "TRAVELER_IT": "Traveler from Italy",
-    "TRAVELER_BR": "Traveler from Brazil"
+    "TRAVELER_BR": "Traveler from Brazil",
+    "GREETING_JP": "Konnichiwa!",
+    "GREETING_IT": "Ciao!",
+    "GREETING_BR": "Oi!"
   }
 }
